@@ -1,9 +1,9 @@
 <div align="center">
 <h2>
-Navigate through Enigmatic Labyrinth
 A Survey on Complex Reasoning of Large Language Models through the Lens of Self-Evolution
 </h2>
 </div>
+
 
 <div align="center">
 <b>Tao He</b><sup>1∗</sup>,
@@ -28,12 +28,12 @@ A Survey on Complex Reasoning of Large Language Models through the Lens of Self-
 <div align="center">
 <sup>2</sup>Singpore Management University, Singapore
 </div>
-
 <div align="center">
-    <!-- <a href="https://doi.org/10.48550/arXiv.2309.15402"><img src="https://img.shields.io/badge/arXiv-2309.15402-b31b1b.svg" alt="Paper"></a> -->
-    <a href="https://github.com/zchuz/CoT-Reasoning-Survey"><img src="https://img.shields.io/github/last-commit/zchuz/CoT-Reasoning-Survey?color=blue" alt="Github"></a>
+    <!-- <a href="http://dx.doi.org/10.13140/RG.2.2.23943.30886"><img src="https://img.shields.io/badge/arXiv-2309.15402-b31b1b.svg" alt="Paper"></a> -->
+    <a href="https://github.com/cs-holder/Reasoning-Self-Evolution-Survey"><img src="https://img.shields.io/github/last-commit/zchuz/CoT-Reasoning-Survey?color=blue" alt="Github"></a>
     <a href="https://github.com/zchuz/CoT-Reasoning-Survey/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/zchuz/CoT-Reasoning-Survey?color=green"> </a>
 </div>
+
 
 This repository contains the resources for survey  paper **_A Survey on Complex Reasoning of Large Language Models through the Lens of Self-Evolution_**
 
