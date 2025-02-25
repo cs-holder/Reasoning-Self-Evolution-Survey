@@ -53,16 +53,20 @@ This reading list will be updated periodically, and if you have any suggestions 
 
 ### Surveys
 
-- **A Survey of Deep Learning for Mathematical Reasoning**, ACL 2023 [[paper](https://aclanthology.org/2023.acl-long.817)]
-
-### Blogs
-
-- **How does GPT Obtain its Ability? Tracing Emergent Abilities of Language Models to their Sources**, Dec 2022, Yao Fu’s Notion [[blog](https://yaofu.notion.site/How-does-GPT-Obtain-its-Ability-Tracing-Emergent-Abilities-of-Language-Models-to-their-Sources-b9a57ac0fcf74f30a1ab9e3e36fa1dc1)]
+- **Navigate through Enigmatic Labyrinth A Survey of Chain of Thought Reasoning: Advances, Frontiers and Future**, ACL 2024 [[paper](https://arxiv.org/pdf/2309.15402v3)]
+- **A Survey on Self-Evolution of Large Language Models**, arxiv.2404.14387 [[paper](https://arxiv.org/pdf/2404.14387)]
+- **A Survey on Data Synthesis and Augmentation for Large Language Models**, arxiv.2410.12896 [[paper](https://arxiv.org/pdf/2410.12896)]
+- **Reinforcement learning enhanced LLMs: A survey**, arxiv.2412.10400 [[paper](https://arxiv.org/pdf/2412.10400)]
+- **Automatically Correcting Large Language Models: Surveying the Landscape ofDiverse Automated Correction Strategies**, TACL [[paper](https://aclanthology.org/2024.tacl-1.27.pdf)]
+- **When Can LLMs Actually Correct Their Own Mistakes? A Critical Survey of Self-Correction of LLMs**, TACL [[paper](https://watermark.silverchair.com/tacl_a_00713.pdf?token=AQECAHi208BE49Ooan9kkhW_Ercy7Dm3ZL_9Cf3qfKAc485ysgAAA0kwggNFBgkqhkiG9w0BBwagggM2MIIDMgIBADCCAysGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQM3W1Jn5YKDVaTagI5AgEQgIIC_NQ1C11SfqRawn6tF1gUf5aOi-XmdZeaSI_2J-kjPOa0HLCgnV93IWGjrbLgRguBq2QqVWuPcjKld0SAakwctOBUzZAvmMxocTtH8BGKl9Dpdcwz06cbT12KQlsQvtazUew0fNcm7NsCIKeyv7PlJc9QlHY0xPoJEVFXhdI0vbDT_Gy0tiUO6XvWxlTjbM3kzZffIxZ3v8pyZAI0iOmU1pnxC15QJkEb91Bol49Biho2Eg6LFVW_5Z_LUcAcEU7ENYpTsViNNoVI41ZIw4baMwifDZxQfb_RXmXjfBRbAaZR3uAGaZm031klu6dzcmK2i_FlrxBO7fJKciv_PG1YwQN5cflDbb3LWP19X26ZpWvmwgCfeN4ARHRtGFiOpEDWGSnLsws_fRBjvmvNnanlobz_2vKQfex-94HRHgmC9NTvDJb_3QTZ8xyGyvXbCJ-gllk35chKO91db4wE3X57pkaM_vZBIIH5wN5-F4bX-OPf_TgJXX6d052osbXglNBZKqGHR_moQGGiXH2wvP1Y-ljQdlQLHlcruwp3fe17NoEi8VkCmqpanKR3XAEv8EJREvvn1Nh5_nvCku1ONTuVUQzW4xlwHor5-VZtVR-Wpurbn--cFF-RvtcGZnbmpCluepLAt8JY0Dzu0Q7xrSIlCpDC39lJXLnWGFjWHtvlF1OMOBgNkfHAv3mQpVnfch7V3JpWtQJt1qUfVR5HTWfMb7LmkK9TVR7Uq2Hb0bJMhLUDju3z16GfCLq0z-xrryR7wmpPyknXu-Ond7gHEgagSc7UvaQ0xgBxQekJ5vMTi3ALbH0q1jB6790bBm642SOQKEnO9cW07zGLl5zDklySVwq0HlBHzkqVrH2G4yO4ifSl08DBi4sJiBQUCAMFEzSc_AXrVR1wItieftpSoxc7XdXrtl1LHSNMVB0e0w3qYXEF-kZvDmO0tndGDrQLXUtJtT-PlM08iokYzx4pM1KjZjW_KCrgpEIEGWCl7F4k9U0P861arEayvTl7RNfM)]
 
 ### Projects
 
 - **HqWu-HITCS/Awesome-LLM-Survey**, [[project](https://github.com/HqWu-HITCS/Awesome-LLM-Survey)]
 - **AGI-Edgerunners/LLM-Planning-Papers** [[project](https://github.com/AGI-Edgerunners/LLM-Planning-Papers)]
+- **modelscope/awesome-deep-reasoning** [[project](https://github.com/modelscope/awesome-deep-reasoning)]
+- **wasiahmad/Awesome-LLM-Synthetic-Data** [[project](https://github.com/wasiahmad/Awesome-LLM-Synthetic-Data)]
+- **CSHaitao/Awesome-LLMs-as-Judges** [[project](https://github.com/CSHaitao/Awesome-LLMs-as-Judges)]
 
 ## 🚀 Data Evolution
 
@@ -169,7 +173,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **O1 Replication Journey: A Strategic Progress Report - Part 1**, arxiv.2410.18982 [[paper](https://arxiv.org/pdf/2410.18982)]
 - **Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning of Language Models**, arxiv.2502.04404 [[paper](https://arxiv.org/pdf/2502.04404)]
 
-#### Explicitly Tree Search For Long CoT
+#### Explicitly Tree Search For Short CoT
 
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, NeurIPS 2023 [[paper](http://papers.nips.cc/paper\_files/paper/2023/hash/271db9922b8d1f4dd7aaef84ed5ac703-Abstract-Conference.html)]
 - **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, ICLR 2024 [[paper](https://openreview.net/forum?id=dHng2O0Jjr)]
