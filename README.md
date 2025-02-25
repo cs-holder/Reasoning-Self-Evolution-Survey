@@ -37,6 +37,12 @@ A Survey on Complex Reasoning of Large Language Models through the Lens of Self-
 
 This repository contains the resources for survey  paper **_A Survey on Complex Reasoning of Large Language Models through the Lens of Self-Evolution_**
 
+![Self-Evolution Framework](C:\Users\User\D\Documents\codes\source_code\Reasoning-Self-Evolution-Survey\figure\framework.png)
+
+
+
+
+
 ![taxonomy](figure/taxonomy.png)
 
 For more details, please refer to the paper: [A Survey on Complex Reasoning of Large Language
@@ -69,6 +75,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **CSHaitao/Awesome-LLMs-as-Judges** [[project](https://github.com/CSHaitao/Awesome-LLMs-as-Judges)]
 
 ## 🚀 Data Evolution
+
+![data evolution](C:\Users\User\D\Documents\codes\source_code\Reasoning-Self-Evolution-Survey\figure\data-evolution.png)
 
 ### Task Evolution
 
@@ -172,6 +180,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B**, arXiv.2406.07394 [[paper](https://doi.org/10.48550/arXiv.2406.07394)]
 - **O1 Replication Journey: A Strategic Progress Report - Part 1**, arxiv.2410.18982 [[paper](https://arxiv.org/pdf/2410.18982)]
 - **Step Back to Leap Forward: Self-Backtracking for Boosting Reasoning of Language Models**, arxiv.2502.04404 [[paper](https://arxiv.org/pdf/2502.04404)]
+
+![search difference](C:\Users\User\D\Documents\codes\source_code\Reasoning-Self-Evolution-Survey\figure\search_difference.png)
 
 #### Explicitly Tree Search For Short CoT
 
@@ -396,6 +406,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling**, arxiv.2501.11651 [[paper](https://arxiv.org/pdf/2501.11651)]
 
 ## 🛸 Self-Evolution
+
+![self-evolution illustration](C:\Users\User\D\Documents\codes\source_code\Reasoning-Self-Evolution-Survey\figure\self-evolution.png)
 
 ### Theory
 
