@@ -200,7 +200,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **ToolChain\*: Efficient Action Space Navigation in Large Language Models with A\* Search**, ICLR 2024 [[paper](https://openreview.net/forum?id=B6pQxqUcT8)]
 - **Q\*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**, arxiv.2406.14283 [[paper](https://arxiv.org/pdf/2406.14283)]
 - **LLM-A\*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.60)] 💡
-- **A Training Data Recipe to Accelerate A* Search with Language Models**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.391)] 💡
+- **A Training Data Recipe to Accelerate A\* Search with Language Models**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.391)] 💡
 - **Beyond A\*: Better Planning with Transformers via Search Dynamics Bootstrapping**, arxiv.2402.14083 [[paper](https://arxiv.org/pdf/2402.14083)]
 - **Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces**, arxiv.2410.09918 [[paper](https://arxiv.org/pdf/2410.09918)]
 - **Mastering the game of Go without human knowledge**, Nature 2017 [[paper](https://www.nature.com/articles/nature24270)]
