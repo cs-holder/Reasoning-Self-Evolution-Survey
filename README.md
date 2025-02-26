@@ -46,10 +46,11 @@ This repository contains the resources for survey  paper **_A Survey on Complex 
 ![taxonomy](figure/taxonomy.png)
 
 For more details, please refer to the paper: [A Survey on Complex Reasoning of Large Language
-Models through the Lens of Self-Evolution](http://dx.doi.org/10.13140/RG.2.2.23943.30886).
+Models through the Lens of Self-Evolution](https://github.com/cs-holder/Reasoning-Self-Evolution-Survey/blob/main/LLM_Self_Evolution_survey.pdf).
 
 ## 🎉 Updates
 
+- 2025/02/26 We updated the paper by replacing the terminology for the two search methods, adding a table to summarize the comparison between the two search approaches, and refining the content of theory in self-evolution.
 - 2025/02/24 We created this reading list repository.
 
 This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (the@ir.hit.edu.cn or haoli@ir.hit.edu.cn).
