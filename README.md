@@ -53,6 +53,8 @@ Models through the Lens of Self-Evolution](https://github.com/cs-holder/Reasonin
 - 2025/02/26 We updated the paper by replacing the terminology for the two search methods, adding a table to summarize the comparison between the two search approaches, and refining the content of theory in self-evolution.
 - 2025/02/24 We created this reading list repository.
 
+We use the 💡 icon to identify articles that have been added since the last version of the paper.
+
 This reading list will be updated periodically, and if you have any suggestions or find some we missed, feel free to contact us! You can submit an issue or send an email (the@ir.hit.edu.cn or haoli@ir.hit.edu.cn).
 
 
@@ -121,11 +123,11 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**, ICLR 2024 [[paper](https://openreview.net/forum?id=Sx038qxjek)]
 - **Critique-out-Loud Reward Models**, arXiv.2408.11791 [[paper](https://doi.org/10.48550/arXiv.2408.11791)]
 - **Self-Generated Critiques Boost Reward Modeling for Language Models**, arxiv.2411.16646 [[paper](https://arxiv.org/pdf/2411.16646)]
-- **Forward-Backward Reasoning in Large Language Models for Mathematical Verification**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-acl.397)] 💡
-- **Large Language Models are Better Reasoners with Self-Verification**, EMNLP 2023 [[paper](https://doi.org/10.18653/v1/2023.findings-emnlp.167)] 💡
+- **Forward-Backward Reasoning in Large Language Models for Mathematical Verification**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-acl.397)] 
+- **Large Language Models are Better Reasoners with Self-Verification**, EMNLP 2023 [[paper](https://doi.org/10.18653/v1/2023.findings-emnlp.167)] 
 - **Let's Verify Step by Step**, ICLR 2024 [[paper](https://openreview.net/forum?id=v8L0pN6EOi)]
 - **Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.acl-long.510)]
-- **Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.429)] 💡
+- **Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.429)] 
 - **LLM Critics Help Catch Bugs in Mathematics: Towards a Better Mathematical Verifier with Natural Language Feedback**, arXiv.2406.14024 [[paper](https://doi.org/10.48550/arXiv.2406.14024)]
 - **AutoPSV: Automated Process-Supervised Verifier**, NeurIPS 2024 [[paper](http://papers.nips.cc/paper\_files/paper/2024/hash/9246aa822579d9b29a140ecdac36ad60-Abstract-Conference.html)]
 - **Making Language Models Better Reasoners with Step-Aware Verifier**, ACL 2023 [[paper](https://aclanthology.org/2023.acl-long.291/)]
@@ -133,8 +135,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Self-Evaluation Guided Beam Search for Reasoning**, NeurIPS 2023 [[paper](http://papers.nips.cc/paper\_files/paper/2023/hash/81fde95c4dc79188a69ce5b24d63010b-Abstract-Conference.html)]
 - **Critic-CoT: Boosting the reasoning abilities of large language model via Chain-of-thoughts Critic**, arXiv.2408.16326 [[paper](https://doi.org/10.48550/arXiv.2408.16326)]
 - **Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision**, arXiv.2411.16579 [[paper](https://doi.org/10.48550/arXiv.2411.16579)]
-- **TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback**, ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.889/)] 💡
-- **Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**, ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.338/)] 💡
+- **TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback**, ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.889/)] 
+- **Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**, ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.338/)] 
 - **Token-Supervised Value Models for Enhancing Mathematical Reasoning Capabilities of Large Language Models**, ICLR 2025 [[paper](https://openreview.net/forum?id=6HcnC3pPkp)]
 - **Selective Preference Optimization via Token-Level Reward Function Estimation**, arxiv.2408.13518 [[paper](https://arxiv.org/pdf/2408.13518)]
 - **MCTS-Judge: Test-Time Scaling in LLM-as-a-Judge for Code Correctness Evaluation**, arxiv.2502.12468 [[paper](https://arxiv.org/pdf/2502.12468)]
@@ -230,13 +232,13 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling**, arxiv.2501.11651 [[paper](https://arxiv.org/pdf/2501.11651)]
 - **O1 Replication Journey - Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?**, arxiv.2411.16489 [[paper](https://arxiv.org/pdf/2411.16489)]
 - **Back to Basics: Revisiting REINFORCE-Style Optimization for Learning from Human Feedback in LLMs**, ACL 2024 [[paper](https://aclanthology.org/2024.acl-long.662/)]
-- **Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning**, arxiv.2502.11169 [[paper](https://arxiv.org/pdf/2502.11169)]
-- **Do not think that much for 2+3=? on the overthinking of o1-like llms**, arxiv.2412.21187 [[paper](https://arxiv.org/pdf/2412.21187)]
-- **Thoughts are all over the place: On the underthinking of o1-like llms**, arxiv.2501.18585 [[paper](https://arxiv.org/pdf/2501.18585)]
-- **When more is less: Understanding chain-of-thought length in llms**, arxiv.2502.07266 [[paper](https://arxiv.org/pdf/2502.07266)]
-- **Logic-rl: Unleashing llm reasoning with rule-based reinforcement learning**, arxiv.2502.14768 [[paper](https://arxiv.org/pdf/2502.14768)]
-- **Demystifying long chain-of-thought reasoning in llms**, arxiv.2502.03373 [[paper](https://arxiv.org/pdf/2502.03373)]
-- **O1-pruner: Length-harmonizing fine-tuning for o1-like reasoning pruning**, arxiv.2501.12570 [[paper](https://arxiv.org/pdf/2501.12570)]
+- **Do not think that much for 2+3=? on the overthinking of o1-like llms**, arxiv.2412.21187 [[paper](https://arxiv.org/pdf/2412.21187)] 💡
+- **Thoughts are all over the place: On the underthinking of o1-like llms**, arxiv.2501.18585 [[paper](https://arxiv.org/pdf/2501.18585)] 💡
+- **When more is less: Understanding chain-of-thought length in llms**, arxiv.2502.07266 [[paper](https://arxiv.org/pdf/2502.07266)] 💡
+- **Logic-rl: Unleashing llm reasoning with rule-based reinforcement learning**, arxiv.2502.14768 [[paper](https://arxiv.org/pdf/2502.14768)] 💡
+- **Demystifying long chain-of-thought reasoning in llms**, arxiv.2502.03373 [[paper](https://arxiv.org/pdf/2502.03373)] 💡
+- **O1-pruner: Length-harmonizing fine-tuning for o1-like reasoning pruning**, arxiv.2501.12570 [[paper](https://arxiv.org/pdf/2501.12570)] 💡
+- **Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning**, arxiv.2502.11169 [[paper](https://arxiv.org/pdf/2502.11169)] 💡
 
 ## 🔭 Model Evolution
 
@@ -293,12 +295,12 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Training language models to follow instructions with human feedback**, NeurIPS 2022 [[paper](http://papers.nips.cc/paper\_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
 - **Self-Rewarding Language Models**, ICML 2024 [[paper](https://openreview.net/forum?id=0NphYCmgua)]
 - **Self-Evolutionary Large Language Models through Uncertainty-Enhanced Preference Optimization**, arxiv.2409.11212 [[paper](https://arxiv.org/pdf/2409.11212)]
-- **Self-Explore: Enhancing Mathematical Reasoning in Language Models with Fine-grained Rewards**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.78.pdf)] 💡
+- **Self-Explore: Enhancing Mathematical Reasoning in Language Models with Fine-grained Rewards**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.78.pdf)] 
 - **Step-DPO: Step-wise Preference Optimization for Long-chain Reasoning of LLMs**, arxiv.2406.18629 [[paper](https://arxiv.org/pdf/2406.18629)]
 - **Step-Controlled DPO: Leveraging Stepwise Error for Enhanced Mathematical Reasoning**, arxiv.2407.00782 [[paper](https://arxiv.org/pdf/2407.00782)]
 - **Chain of Preference Optimization: Improving Chain-of-Thought Reasoning in LLMs**, NeurIPS 2024 [[paper](http://papers.nips.cc/paper\_files/paper/2024/hash/00d80722b756de0166523a87805dd00f-Abstract-Conference.html)]
 - **Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning**, arxiv.2405.00451 [[paper](https://arxiv.org/pdf/2405.00451)]
-- **Step-level Value Preference Optimization for Mathematical Reasoning**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.463)] 💡
+- **Step-level Value Preference Optimization for Mathematical Reasoning**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.463)] 
 - **From $r$ to $Q^*$: Your Language Model is Secretly a Q-Function**, arxiv.2404.12358 [[paper](https://arxiv.org/pdf/2404.12358)]
 - **DPO Meets PPO: Reinforced Token Optimization for RLHF**, arxiv.2404.18922 [[paper](https://arxiv.org/pdf/2404.18922)]
 - **Selective Preference Optimization via Token-Level Reward Function Estimation**, arxiv.2408.13518 [[paper](https://arxiv.org/pdf/2408.13518)]
