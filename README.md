@@ -186,7 +186,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 
 ![search difference](figure/search_difference.png)
 
-#### Explicitly Tree Search For Short CoT
+#### Explicit Tree Search For Short CoT
 
 - **Tree of Thoughts: Deliberate Problem Solving with Large Language Models**, NeurIPS 2023 [[paper](http://papers.nips.cc/paper\_files/paper/2023/hash/271db9922b8d1f4dd7aaef84ed5ac703-Abstract-Conference.html)]
 - **ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs**, ICLR 2024 [[paper](https://openreview.net/forum?id=dHng2O0Jjr)]
@@ -207,7 +207,6 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Beyond A\*: Better Planning with Transformers via Search Dynamics Bootstrapping**, arxiv.2402.14083 [[paper](https://arxiv.org/pdf/2402.14083)]
 - **Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces**, arxiv.2410.09918 [[paper](https://arxiv.org/pdf/2410.09918)]
 - **Mastering the game of Go without human knowledge**, Nature 2017 [[paper](https://www.nature.com/articles/nature24270)]
-- **A Survey of Monte Carlo Tree Search Methods**, IEEE Trans. Comput. Intell. AI Games 2012 [[paper](https://ieeexplore.ieee.org/document/6145622)]
 - **Multi-armed bandits with episode context**,  Ann. Math. Artif. Intell. 2011 [[paper](https://link.springer.com/article/10.1007/s10472-011-9258-6)]
 - **Monte Carlo Tree Search Boosts Reasoning via Iterative Preference Learning**, arxiv.2405.00451 [[paper](https://arxiv.org/pdf/2405.00451)]
 - **ReST-MCTS\*: LLM Self-Training via Process Reward Guided Tree Search**, NeurIPS 2024 [[paper](http://papers.nips.cc/paper\_files/paper/2024/hash/76ec4dc30e9faaf0e4b6093eaa377218-Abstract-Conference.html)]
@@ -224,16 +223,20 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **DeepSeek-Prover-V1.5: Harnessing Proof Assistant Feedback for Reinforcement Learning and Monte-Carlo Tree Search**, arxiv.2408.08152 [[paper](https://arxiv.org/pdf/2408.08152)]
 - **Towards Self-Improvement of LLMs via MCTS: Leveraging Stepwise Knowledge with Curriculum Preference Learning**, arxiv.2410.06508 [[paper](https://arxiv.org/pdf/2410.06508)]
 
-#### Implicitly Trial-and-Error Search For Long CoT
+#### Implicit Trial-and-Error Search For Long CoT
 
 - **DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning**, arxiv.2501.12948 [[paper](https://arxiv.org/pdf/2501.12948)]
 - **Kimi k1.5: Scaling Reinforcement Learning with LLMs**, arxiv.2501.12599 [[paper](https://arxiv.org/pdf/2501.12599)]
 - **Advancing Language Model Reasoning through Reinforcement Learning and Inference Scaling**, arxiv.2501.11651 [[paper](https://arxiv.org/pdf/2501.11651)]
 - **O1 Replication Journey - Part 2: Surpassing O1-preview through Simple Distillation, Big Progress or Bitter Lesson?**, arxiv.2411.16489 [[paper](https://arxiv.org/pdf/2411.16489)]
-- **Proximal Policy Optimization Algorithms**, arxiv.1707.06347 [[paper](https://arxiv.org/pdf/1707.06347)]
-- **DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models**, arxiv.2402.03300 [[paper](https://arxiv.org/pdf/2402.03300)]
-- **POLITEX: Regret Bounds for Policy Iteration using Expert Prediction**, ICML 2019 [[paper](https://proceedings.mlr.press/v97/lazic19a/lazic19a-supp.pdf)]
 - **Back to Basics: Revisiting REINFORCE-Style Optimization for Learning from Human Feedback in LLMs**, ACL 2024 [[paper](https://aclanthology.org/2024.acl-long.662/)]
+- **Leveraging Constrained Monte Carlo Tree Search to Generate Reliable Long Chain-of-Thought for Mathematical Reasoning**, arxiv.2502.11169 [[paper](https://arxiv.org/pdf/2502.11169)]
+- **Do not think that much for 2+3=? on the overthinking of o1-like llms**, arxiv.2412.21187 [[paper](https://arxiv.org/pdf/2412.21187)]
+- **Thoughts are all over the place: On the underthinking of o1-like llms**, arxiv.2501.18585 [[paper](https://arxiv.org/pdf/2501.18585)]
+- **When more is less: Understanding chain-of-thought length in llms**, arxiv.2502.07266 [[paper](https://arxiv.org/pdf/2502.07266)]
+- **Logic-rl: Unleashing llm reasoning with rule-based reinforcement learning**, arxiv.2502.14768 [[paper](https://arxiv.org/pdf/2502.14768)]
+- **Demystifying long chain-of-thought reasoning in llms**, arxiv.2502.03373 [[paper](https://arxiv.org/pdf/2502.03373)]
+- **O1-pruner: Length-harmonizing fine-tuning for o1-like reasoning pruning**, arxiv.2501.12570 [[paper](https://arxiv.org/pdf/2501.12570)]
 
 ## 🔭 Model Evolution
 
