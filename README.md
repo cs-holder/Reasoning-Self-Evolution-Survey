@@ -156,16 +156,16 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Imitate, Explore, and Self-Improve: A Reproduction Report on Slow-thinking Reasoning Systems**, arxiv.2412.09413 [[paper](https://arxiv.org/pdf/2412.09413)]
 - **Self-Consistency Improves Chain of Thought Reasoning in Language Models**, ICLR 2023 [[paper](https://openreview.net/forum?id=1PL1NIMMrw)]
 - **Universal Self-Consistency for Large Language Model Generation**, arXiv.2311.17311 [[paper](https://doi.org/10.48550/arXiv.2311.17311)]
-- **Forward-Backward Reasoning in Large Language Models for Mathematical Verification**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-acl.397)] 💡
-- **Large Language Models are Better Reasoners with Self-Verification**, EMNLP 2023 [[paper](https://doi.org/10.18653/v1/2023.findings-emnlp.167)] 💡
+- **Forward-Backward Reasoning in Large Language Models for Mathematical Verification**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-acl.397)] 
+- **Large Language Models are Better Reasoners with Self-Verification**, EMNLP 2023 [[paper](https://doi.org/10.18653/v1/2023.findings-emnlp.167)] 
 - **Perplexed by Perplexity: Perplexity-Based Data Pruning With Small Reference Models**, arxiv.2405.20541 [[paper](https://arxiv.org/pdf/2405.20541)]
 - **Self-Training Meets Consistency: Improving LLMs' Reasoning With Consistency-Driven Rationale Evaluation**, arXiv.2411.06387 [[paper](https://doi.org/10.48550/arXiv.2411.06387)]
 - **Training Verifiers to Solve Math Word Problems**, arxiv.2110.14168 [[paper](https://arxiv.org/abs/2110.14168)]
-- **OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning**, NAACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-naacl.55)] 💡
+- **OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning**, NAACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-naacl.55)] 
 - **Learning to summarize with human feedback**, NeurIPS 2020 [[paper](https://proceedings.neurips.cc/paper/2020/hash/1f89885d556929e98d3ef9b86448f951-Abstract.html)]
 - **Self-Refine: Iterative Refinement with Self-Feedback**, NeurIPS 2023 [[paper](http://papers.nips.cc/paper\_files/paper/2023/hash/91edff07232fb1b55a505a9e9f6c0ff3-Abstract-Conference.html)]
 - **Self-Contrast: Better Reflection Through Inconsistent Solving Perspectives**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.acl-long.197)]
-- **LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.458)] 💡
+- **LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.458)] 
 - **Large Language Models Can Self-Correct with Key Condition Verification**, EMNLP 2024 [[paper](https://aclanthology.org/2024.emnlp-main.714)]
 - **CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing**, ICLR 2024 [[paper](https://openreview.net/forum?id=Sx038qxjek)]
 - **DotaMath: Decomposition of Thought with Code Assistance and Self-correction for Mathematical Reasoning**, arXiv.2407.04078 [[paper](https://doi.org/10.48550/arXiv.2407.04078)]
@@ -178,7 +178,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Critic-CoT: Boosting the reasoning abilities of large language model via Chain-of-thoughts Critic**, arXiv.2408.16326 [[paper](https://doi.org/10.48550/arXiv.2408.16326)]
 - **Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision**, arXiv.2411.16579 [[paper](https://doi.org/10.48550/arXiv.2411.16579)]
 - **S3c-Math: Spontaneous Step-level Self-correction Makes Large Language Models Better Mathematical Reasoners**, arXiv.2409.01524 [[paper](https://doi.org/10.48550/arXiv.2409.01524)]
-- **Small Language Models Need Strong Verifiers to Self-Correct Reasoning**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-acl.924)] 💡
+- **Small Language Models Need Strong Verifiers to Self-Correct Reasoning**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-acl.924)] 
 - **LLaMA-Berry: Pairwise Optimization for O1-like Olympiad-Level Mathematical Reasoning**, arXiv.2410.02884 [[paper](https://doi.org/10.48550/arXiv.2410.02884)]
 - **Accessing GPT-4 level Mathematical Olympiad Solutions via Monte Carlo Tree Self-refine with LLaMa-3 8B**, arXiv.2406.07394 [[paper](https://doi.org/10.48550/arXiv.2406.07394)]
 - **O1 Replication Journey: A Strategic Progress Report - Part 1**, arxiv.2410.18982 [[paper](https://arxiv.org/pdf/2410.18982)]
@@ -198,14 +198,14 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Diverse Beam Search: Decoding Diverse Solutions from Neural Sequence Models**, arxiv.1610.02424 [[paper](https://arxiv.org/pdf/1610.02424)]
 - **BPP-Search: Enhancing Tree of Thought Reasoning for Mathematical Modeling Problem Solving**, arxiv.2411.17404 [[paper](https://arxiv.org/pdf/2411.17404)]
 - **AlphaMath Almost Zero: process Supervision without process**, NeurIPS 2024 [[paper](http://papers.nips.cc/paper\_files/paper/2024/hash/30dfe47a3ccbee68cffa0c19ccb1bc00-Abstract-Conference.html)]
-- **OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning**, NAACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-naacl.55)] 💡
+- **OVM, Outcome-supervised Value Models for Planning in Mathematical Reasoning**, NAACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-naacl.55)] 
 - **Rewarding Progress: Scaling Automated Process Verifiers for LLM Reasoning**, arxiv.2410.08146 [[paper](https://arxiv.org/pdf/2410.08146)]
 - **Self-Evaluation Guided Beam Search for Reasoning**, NeurIPS 2023 [[paper](http://papers.nips.cc/paper\_files/paper/2023/hash/81fde95c4dc79188a69ce5b24d63010b-Abstract-Conference.html)]
 - **Chain-of-Thought Reasoning Without Prompting**, NeurIPS 2024 [[paper](http://papers.nips.cc/paper\_files/paper/2024/hash/7a8e7fd295aa04eac4b470ae27f8785c-Abstract-Conference.html)]
 - **ToolChain\*: Efficient Action Space Navigation in Large Language Models with A\* Search**, ICLR 2024 [[paper](https://openreview.net/forum?id=B6pQxqUcT8)]
 - **Q\*: Improving Multi-step Reasoning for LLMs with Deliberative Planning**, arxiv.2406.14283 [[paper](https://arxiv.org/pdf/2406.14283)]
-- **LLM-A\*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.60)] 💡
-- **A Training Data Recipe to Accelerate A\* Search with Language Models**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.391)] 💡
+- **LLM-A\*: Large Language Model Enhanced Incremental Heuristic Search on Path Planning**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.60)] 
+- **A Training Data Recipe to Accelerate A\* Search with Language Models**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.391)] 
 - **Beyond A\*: Better Planning with Transformers via Search Dynamics Bootstrapping**, arxiv.2402.14083 [[paper](https://arxiv.org/pdf/2402.14083)]
 - **Dualformer: Controllable Fast and Slow Thinking by Learning with Randomized Reasoning Traces**, arxiv.2410.09918 [[paper](https://arxiv.org/pdf/2410.09918)]
 - **Mastering the game of Go without human knowledge**, Nature 2017 [[paper](https://www.nature.com/articles/nature24270)]
@@ -353,7 +353,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Judging LLM-as-a-judge with MT-Bench and Chatbot Arena**, NeurIPS 2023 [[paper](http://papers.nips.cc/paper\_files/paper/2023/hash/91f18a1287b398d378ef22505bf41832-Abstract-Datasets\_and\_Benchmarks.html)]
 - **Uncertainty-Aware Step-wise Verification with Generative Reward Models**, arxiv.2502.11250 [[paper](https://arxiv.org/pdf/2502.11250)]
 - **Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.acl-long.510)]
-- **Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.429)] 💡
+- **Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.429)] 
 - **Learning Planning-based Reasoning by Trajectories Collection and Process Reward Synthesizing**, EMNLP 2024 [[paper](https://aclanthology.org/2024.emnlp-main.20/)]
 - **Improve Mathematical Reasoning in Language Models by Automated Process Supervision**, arXiv.2406.06592 [[paper](https://doi.org/10.48550/arXiv.2406.06592)]
 - **Generative Verifiers: Reward Modeling as Next-Token Prediction**, arxiv.2408.15240 [[paper](https://arxiv.org/pdf/2408.15240)]
@@ -364,8 +364,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **S3c-Math: Spontaneous Step-level Self-correction Makes Large Language Models Better Mathematical Reasoners**, arXiv.2409.01524 [[paper](https://doi.org/10.48550/arXiv.2409.01524)]
 - **Enhancing LLM Reasoning via Critique Models with Test-Time and Training-Time Supervision**, arXiv.2411.16579 [[paper](https://doi.org/10.48550/arXiv.2411.16579)]
 - **AutoPSV: Automated Process-Supervised Verifier**, NeurIPS 2024 [[paper](http://papers.nips.cc/paper\_files/paper/2024/hash/9246aa822579d9b29a140ecdac36ad60-Abstract-Conference.html)]
-- **Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**, ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.338/)] 💡
-- **TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback**, ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.889/)] 💡
+- **Improving Large Language Models via Fine-grained Reinforcement Learning with Minimum Editing Constraint**, ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.338/)] 
+- **TLCR: Token-Level Continuous Reward for Fine-grained Reinforcement Learning from Human Feedback**, ACL 2024 [[paper](https://aclanthology.org/2024.findings-acl.889/)] 
 - **From $r$ to $Q^*$: Your Language Model is Secretly a Q-Function**, arxiv.2404.12358 [[paper](https://arxiv.org/pdf/2404.12358)]
 - **DPO Meets PPO: Reinforced Token Optimization for RLHF**, arxiv.2404.18922 [[paper](https://arxiv.org/pdf/2404.18922)]
 - **Selective Preference Optimization via Token-Level Reward Function Estimation**, arxiv.2408.13518 [[paper](https://arxiv.org/pdf/2408.13518)]
@@ -374,7 +374,7 @@ This reading list will be updated periodically, and if you have any suggestions 
 #### Training Format
 
 - **Math-Shepherd: Verify and Reinforce LLMs Step-by-step without Human Annotations**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.acl-long.510)]
-- **Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.429)] 💡
+- **Multi-step Problem Solving Through a Verifier: An Empirical Analysis on Model-induced Process Supervision**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.429)] 
 - **AutoPSV: Automated Process-Supervised Verifier**, NeurIPS 2024 [[paper](http://papers.nips.cc/paper\_files/paper/2024/hash/9246aa822579d9b29a140ecdac36ad60-Abstract-Conference.html)]
 - **Rank Analysis of Incomplete Block Designs: I. The Method of Paired Comparisons**, Biometrika 1952 [[paper](https://api.semanticscholar.org/CorpusID:125209808)]
 - **Self-Generated Critiques Boost Reward Modeling for Language Models**, arxiv.2411.16646 [[paper](https://arxiv.org/pdf/2411.16646)]
@@ -403,8 +403,8 @@ This reading list will be updated periodically, and if you have any suggestions 
 - **Embedding Self-Correction as an Inherent Ability in Large Language Models for Enhanced Mathematical Reasoning**, arXiv.2410.10735 [[paper](https://doi.org/10.48550/arXiv.2410.10735)]
 - **Think Thrice Before You Act: Progressive Thought Refinement in Large Language Models**, arXiv.2410.13413 [[paper](https://doi.org/10.48550/arXiv.2410.13413)]
 - **Generating Sequences by Learning to Self-Correct**, ICLR 2023 [[paper](https://openreview.net/forum?id=hH36JeQZDaO)]
-- **Small Language Models Need Strong Verifiers to Self-Correct Reasoning**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-acl.924)] 💡
-- **Learning to Refine with Fine-Grained Natural Language Feedback**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.716)] 💡
+- **Small Language Models Need Strong Verifiers to Self-Correct Reasoning**, ACL 2024 [[paper](https://doi.org/10.18653/v1/2024.findings-acl.924)] 
+- **Learning to Refine with Fine-Grained Natural Language Feedback**, EMNLP 2024 [[paper](https://aclanthology.org/2024.findings-emnlp.716)] 
 - **The ART of LLM Refinement: Ask, Refine, and Trust**, NAACL 2024 [[paper](https://doi.org/10.18653/v1/2024.naacl-long.327)]
 - **Meta-Reflection: A Feedback-Free Reflection Learning Framework**, arXiv.2412.13781 [[paper](https://doi.org/10.48550/arXiv.2412.13781)]
 - **Training language models to follow instructions with human feedback**, NeurIPS 2022 [[paper](http://papers.nips.cc/paper\_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html)]
